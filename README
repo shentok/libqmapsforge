@@ -1,0 +1,4 @@
+libqmapsforge
+=============
+
+Libqmapsforge is a library for ad-hoc rendering of OpenStreetMap data in Mapsforge's offline file format.
